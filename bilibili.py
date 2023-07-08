@@ -10,7 +10,7 @@ header = {
         'Host': ' api.bilibili.com ',
         'Accept-Encoding': 'gzip, deflate',
         'Accept': '*/*',
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 13; SM-A037U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36',
         'Cache-Control': 'no-cache',
         'Connection': 'keep-alive',
 }
